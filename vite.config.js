@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
-  base: "/mini-project/",
+  base: "/mini-project/",   // 👈 must match your GitHub repo name exactly
 })
